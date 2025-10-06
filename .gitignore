@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.envrc
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Streamlit / notebooks
+.ipynb_checkpoints
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -56,9 +56,9 @@ Upload your CSV/Excel file — the app analyzes, visualizes, and explains key tr
 
 ## 📸 Screenshots
 
-| Overview | Smart Visuals |
-|-----------|----------------|
-| ![Overview](screenshots/overview.png) | ![Visuals](screenshots/visuals.png) |
+![Screenshot 1](screenshots/Screenshot%202025-10-06%20132930.png)
+![Screenshot 2](screenshots/Screenshot%202025-10-06%20133114.png)
+![Screenshot 3](screenshots/Screenshot%202025-10-06%20133209.png)
 
 ---
 
